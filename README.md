@@ -38,35 +38,7 @@
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email" /><br/><sub><b>Email</b></sub>
       </a>
     </td>
-    <td align="center" width="110">
-      <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram" /><br/><sub><b>Instagram</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-        <img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord" /><br/><sub><b>Discord</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://YOUR_PORTFOLIO_URL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio" /><br/><sub><b>Portfolio</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle" /><br/><sub><b>Kaggle</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://github.com/manjushriofc/manjushriofc/blob/main/V_K_Manjushri__Resume.pdf">
-        <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume" /><br/><sub><b>Resume</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+   </table>
 
 </div>
 
@@ -164,62 +136,3 @@
 </table>
 
 ---
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manjushriofc&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&ring_color=A78BFA&text_color=C9D1D9&bg_color=1A1B27" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjushriofc&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=1A1B27" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=manjushriofc&theme=tokyonight&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&background=1A1B27" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjushriofc&theme=tokyo-night&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6&bg_color=1A1B27" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Quote of the Day
-
-> *"The best way to predict the future is to invent it."*
-> — **Alan Kay**
-
-</div>
-
----
-
-<div align="center">
-
-```text
- ____  _   _ ___ _     ____ ___ _   _  ____
-| __ )| | | |_ _| |   |  _ \_ _| \ | |/ ___|
-|  _ \| | | || || |   | | | | ||  \| | |  _
-| |_) | |_| || || |___| |_| | || |\  | |_| |
-|____/ \___/|___|_____|____/___|_| \_|\____|
-
-   ▸ STATUS : ONLINE   ▸ MODE : ALWAYS BUILDING
-   "Curiosity compiles. Consistency ships."
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=140&section=footer" width="100%" alt="Footer banner" />
-
-</div>
