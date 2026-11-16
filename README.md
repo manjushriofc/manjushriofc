@@ -125,8 +125,7 @@
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter" /><br/><sub><b>Jupyter</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" /><br/><sub><b>Git</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/ffffff" width="55" height="55" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma" /><br/><sub><b>Figma</b></sub></td>
-  </tr>
+      </tr>
 </table>
 
 ---
