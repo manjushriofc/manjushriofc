@@ -50,7 +50,6 @@
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/ffffff" width="55" height="55" alt="OpenAI" /><br/><sub><b>OpenAI</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini" /><br/><sub><b>Gemini</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude" /><br/><sub><b>Claude</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/ollama/ffffff" width="55" height="55" alt="Ollama" /><br/><sub><b>Ollama</b></sub></td>
@@ -63,7 +62,6 @@
 <table>
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" /><br/><sub><b>C++</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" /><br/><sub><b>HTML</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" /><br/><sub><b>CSS</b></sub></td>
   </tr>
@@ -75,7 +73,6 @@
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55" alt="Keras" /><br/><sub><b>Keras</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn" /><br/><sub><b>Scikit-learn</b></sub></td>
   </tr>
 </table>
@@ -86,7 +83,6 @@
   <tr>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" /><br/><sub><b>Pandas</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" /><br/><sub><b>Matplotlib</b></sub></td>
   </tr>
 </table>
@@ -104,11 +100,9 @@
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud" /><br/><sub><b>Google Cloud</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" height="55" alt="Azure" /><br/><sub><b>Azure</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase" /><br/><sub><b>Firebase</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
   </tr>
 </table>
 
